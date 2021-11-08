@@ -132,7 +132,7 @@ let footer = $(`
              <div class="form-header">
                 <h6 class="display">Get in Touch</h6>
               </div>
-              <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSevSJqMFyUK62_dLqecZLPpUmXU8AwUjGK1tu9wkyR-PlY9kA/viewform?embedded=true" width="400" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+              <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSevSJqMFyUK62_dLqecZLPpUmXU8AwUjGK1tu9wkyR-PlY9kA/viewform?embedded=true" width="380" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
              </div>
           </div>
         </div>
