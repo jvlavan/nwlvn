@@ -11,7 +11,7 @@ const projects = [
     description: "A portable cloud storage.",
     tagimg: "https://vmhsscloud.github.io/assets/images/img-20200717-wa0015.jpg-1280x960.jpg",
     Previewlink: "https://vmhsscloud.github.io",
-    Githublink: "www.github.com/vmhsscloud",
+    Githublink: "https://github.com/vmhsscloud/vmhsscloud.github.io",
   },
   {
     title: "FEROCIOUS MEET",
